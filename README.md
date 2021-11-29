@@ -14,8 +14,6 @@
 
 #### 🔭Currently Working On
 - [ACNH Companion API](https://github.com/samanthaerachelb/acnh-api): An Animal Crossing New Horizons Data API
-- [LotionBoy](https://github.com/samanthaerachelb/lotionboy): A discord robot that emulates a Facebook Legend™
-- HerCoin: A cryptocurrency for Her™ (for legal reasons this a joke)
 
 #### 🌱Currently learning
 - Kubernetes
