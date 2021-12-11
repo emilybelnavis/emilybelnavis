@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     <sup>
-      <h1> Hello, Hello! I'm Samantha! 👋🏻
+      <h1> Hello, Hello! I'm Emily! 👋🏻
     </sup>
   </p>
 </div>
