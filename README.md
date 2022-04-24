@@ -14,6 +14,7 @@
 
 #### 🔭Currently Working On
 - [ACNH Companion API](https://github.com/samanthaerachelb/acnh-api): An Animal Crossing New Horizons Data API
+- [FHIRKit](https://github.com/samanthaerachelb/FHIRKit): Fast Healthcare Interoperability Resources Library for Swift
 
 #### 🌱Currently learning
 - Kubernetes
@@ -30,8 +31,9 @@ send emails about product testing. I've got a lot on that plate right now.
 
 #### 📈Stats For Nerds
 
-[![Samantha's Github Stats](https://github-readme-stats.vercel.app/api?username=samanthaerachelb&theme=cobalt&show_icons=true&count_private=true&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
-[![Samantha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanthaerachelb&langs_count=5&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Emily's Github Stats](https://github-readme-stats.vercel.app/api?username=samanthaerachelb&theme=cobalt&show_icons=true&count_private=true&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Emily's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanthaerachelb&langs_count=5&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Emily's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@samanthaerachelb)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **samantharachelb/samantharachelb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
