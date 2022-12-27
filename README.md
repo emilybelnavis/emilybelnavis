@@ -27,9 +27,10 @@
 - [WWCode Toronto](https://www.womenwhocode.com/toronto)
 - [Girls Who Code](https://girlswhocode.com)
 
-#### Contact Info:
-Feel free to send me an email at [me@samantharachelb.ca](mailto:me@samantharachelb.ca). Please do not
-send emails about product testing. I've got a lot on that plate right now.
+#### How to reach me:
+
+- [Email](mailto:emily.belnavis@bitmatic.ca) (Business Requests Only! No product testing)
+
 
 #### 📈Stats For Nerds
 
