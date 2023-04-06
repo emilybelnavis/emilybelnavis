@@ -15,12 +15,10 @@
 - 🤗Pronouns: She/They
 
 #### 🔭Currently Working On
-- [ACNH Companion API](https://github.com/emilybelnavis/acnh-api): An Animal Crossing New Horizons Data API
 - [FHIRKit](https://github.com/emilybelnavis/FHIRKit): Fast Healthcare Interoperability Resources Library for Swift
 
 #### 🌱Currently learning
 - Kubernetes
-- Serverless Cloud
 
 #### Organizations
 - [WWCode San Francisco](https://www.womenwhocode.com/sf)
