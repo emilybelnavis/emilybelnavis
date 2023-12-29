@@ -10,24 +10,15 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Femilybelnavis&count_bg=%23CDB6D7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 
-#### About Me 🙂
-- I write code sometimes
-- 🤗Pronouns: She/They
-
 #### 🔭Currently Working On
-- [FHIRKit](https://github.com/emilybelnavis/FHIRKit): Fast Healthcare Interoperability Resources Library for Swift
+- Nothing at the moment
 
 #### 🌱Currently learning
 - Kubernetes
 
-#### Organizations
-- [WWCode San Francisco](https://www.womenwhocode.com/sf)
-- [WWCode Toronto](https://www.womenwhocode.com/toronto)
-- [Girls Who Code](https://girlswhocode.com)
-
 #### How to reach me:
 
-- [Email](mailto:emily.belnavis@bitmatic.ca) (Business Requests Only! No product testing)
+- [Email](mailto:emily@emilybelnavis.ca) (Business Requests Only! No product testing)
 
 
 #### 📈Stats For Nerds
