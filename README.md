@@ -24,8 +24,8 @@
 #### 📈Stats For Nerds
 
 [![Emily's Github Stats](https://github-readme-stats.vercel.app/api?username=emilybelnavis&show_icons=true&count_private=true&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
-[![Emily's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilybelnavis&langs_count=5&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Emily's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@emilybelnavis&langs_count=5&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Emily's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilybelnavis&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Emily's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@emilybelnavis&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **emilybelnavis/emilybelnavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
