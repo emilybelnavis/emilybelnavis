@@ -1,10 +1,14 @@
 <div align="center">
   <p>
     <sup>
-      <h1> Hello, Hello! I'm Emily! 👋🏻
+      <h1> Hello! Bienvenue! 👋🏻
     </sup>
   </p>
 </div>
+        
+I'm Emily, a former software engineer who's moved into the realm of Film & TV production and now works as a Digital Imaging Technician on various sets. While I love my current role, I still love do write code exclusively as a hobby. Here you will find some of the various projects that I've started either out of curiosity or to help me with my workflow as a DIT.
+
+<hr />
 
 [![@memewatney's Holopin board](https://holopin.io/api/user/board?user=memewatney)](https://holopin.io/@memewatney)
 
