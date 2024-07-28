@@ -6,7 +6,7 @@
   </p>
 </div>
         
-I'm Emily, a former software engineer who's moved into the realm of Film & TV production and now works as a Digital Imaging Technician on various sets. While I love my current role, I still love do write code exclusively as a hobby. Here you will find some of the various projects that I've started either out of curiosity or to help me with my workflow as a DIT.
+I'm Emily, a former software engineer who's moved into the realm of Film & TV production and now works as a Digital Imaging Technician on various sets. While I love my current role, I still love to write code, exclusively as a hobby. Here you will find some of the various projects that I've started either out of curiosity or to help me with my workflow as a DIT.
 
 <hr />
 
